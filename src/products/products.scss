@@ -1,0 +1,44 @@
+.container{
+    width: 90%;
+    padding:3%;
+    background: #eee;
+}
+
+.card{
+    display:inline-block;
+}
+.card-columns{
+    padding-top:1%;
+}
+.detailsContainer{
+    padding:1% 10% 5% 15%;
+}
+.creditMsg{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 10px;;
+}
+.price {
+    display:inline-block;
+    font-size:1rem;
+    font-weight: 500;
+    width:20%;
+}
+
+.price>div{
+    padding:5% 5% 15% 15%;
+}
+
+.warningMsg {
+    color:red;
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom:3%;
+}
+
+.successMsg {
+    color:green;
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom:3%;
+}
